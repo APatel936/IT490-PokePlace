@@ -1,6 +1,7 @@
 # IT490-PokePlace
 
 *Full details can be found at the following link!*
+
 https://github.com/Bryandbronstein/IT490_PokePlace
 
 
