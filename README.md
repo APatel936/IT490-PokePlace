@@ -4,6 +4,9 @@
 
 https://github.com/Bryandbronstein/IT490_PokePlace
 
+alias - arp97-njit
+Primary responsibility - dmz
+
 
 The current code - 03/31/2020 works via a local router and 4 machines
 
